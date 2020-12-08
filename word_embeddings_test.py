@@ -1,8 +1,3 @@
-# from gensim.test.utils import lee_corpus_list
-# from gensim.models import Word2Vec
-# model = Word2Vec(lee_corpus_list, vector_size=24, epochs=100)
-# word_vectors = model.wv
-
 # https://radimrehurek.com/gensim/models/keyedvectors.html
 import gensim.downloader as api
 
